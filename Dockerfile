@@ -1,4 +1,3 @@
-FROM debian
 FROM alpine:latest
 
 WORKDIR /work
